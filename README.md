@@ -22,7 +22,6 @@
 - [API Endpoints](#-api-endpoints)
 - [Screenshots](#-screenshots)
 - [Testing](#-testing)
-- [Contributing](#-contributing)
 - [License](#-license)
 - [Contact](#-contact)
 
